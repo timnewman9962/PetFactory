@@ -4,30 +4,30 @@ namespace PetFactory
 {
     class Program
     {
-        class Gerbil : IPet
+        class Gerbil : Pet
         {
-            public void Companion()
+            public override void  Companion()
             {
                 Console.WriteLine("Making a new gerbil!");
             }
         }
-        class Cat : IPet
+        class Cat : Pet
         {
-            public void Companion()
+            public override void Companion()
             {
                 Console.WriteLine("Making a new cat!");
             }
         }
-        class Dog : IPet
+        class Dog : Pet
         {
-            public void Companion()
+            public override void Companion()
             {
                 Console.WriteLine("Making a new dog!");
             }
         }
         class PetFactory
         {
-            public static IPet GetPet(string size)
+            public static Pet GetPet(string size)
             {
                 switch(size.ToLower())
                 {
