@@ -1,0 +1,13 @@
+C:\Users\Tim\repos\PetFactory\PetFactory\bin\Debug\netcoreapp3.1\PetFactory.exe
+C:\Users\Tim\repos\PetFactory\PetFactory\bin\Debug\netcoreapp3.1\PetFactory.deps.json
+C:\Users\Tim\repos\PetFactory\PetFactory\bin\Debug\netcoreapp3.1\PetFactory.runtimeconfig.json
+C:\Users\Tim\repos\PetFactory\PetFactory\bin\Debug\netcoreapp3.1\PetFactory.runtimeconfig.dev.json
+C:\Users\Tim\repos\PetFactory\PetFactory\bin\Debug\netcoreapp3.1\PetFactory.dll
+C:\Users\Tim\repos\PetFactory\PetFactory\bin\Debug\netcoreapp3.1\PetFactory.pdb
+C:\Users\Tim\repos\PetFactory\PetFactory\obj\Debug\netcoreapp3.1\PetFactory.csprojAssemblyReference.cache
+C:\Users\Tim\repos\PetFactory\PetFactory\obj\Debug\netcoreapp3.1\PetFactory.AssemblyInfoInputs.cache
+C:\Users\Tim\repos\PetFactory\PetFactory\obj\Debug\netcoreapp3.1\PetFactory.AssemblyInfo.cs
+C:\Users\Tim\repos\PetFactory\PetFactory\obj\Debug\netcoreapp3.1\PetFactory.csproj.CoreCompileInputs.cache
+C:\Users\Tim\repos\PetFactory\PetFactory\obj\Debug\netcoreapp3.1\PetFactory.dll
+C:\Users\Tim\repos\PetFactory\PetFactory\obj\Debug\netcoreapp3.1\PetFactory.pdb
+C:\Users\Tim\repos\PetFactory\PetFactory\obj\Debug\netcoreapp3.1\PetFactory.genruntimeconfig.cache
